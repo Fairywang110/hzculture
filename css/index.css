@@ -9,7 +9,7 @@ body{
 	align-items: center;
 	justify-content: center;
 	background-repeat: no-repeat;
-	cover;
+	background-size: cover;
 	opacity(0.5);
 }
 img{
